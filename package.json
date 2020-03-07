@@ -1,7 +1,12 @@
 {
   "name": "stashaway-challenge",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "Samrat Ghosh",
+    "email": "samratat@gmail.com",
+    "url": "https://www.linkedin.com/in/samratat/"
+  },
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
