@@ -1,6 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+## StashAway Front End Challenge on HackerEarth
+
+List of Problems that we need to solve
+1. Make an API Call to fetch the restaurants from http://starlord.hackerearth.returncom/TopRamen
+2. Default view of the restaurants
+3. Sorted view of the restaurants based on the year
+4. Search functionality on the restaurants
+5. Country based search functionality on the restaurants
+
+## Technology Stack
+1. Next.js (React Server Side Framework)
+2. React
+3. CSS in JS
+4. ESLint + Prettier Configuration
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
